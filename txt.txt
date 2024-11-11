@@ -1,0 +1,39 @@
+Ensure your post includes
+☑️ A screenshot of your recreated work.
+☑️ A video snippet of your work (Optional)
+☑️ A brief description of your process and any challenges faced.
+☑️ A mention of your progress (e.g., "Day 1 of 30").
+
+Tagging and Hashtags
+✅ Tag 2 different followers on your connection in each post daily.
+✅ Tag Embold Lab(@EmboldLab) in each post.
+✅Tag Gabriel Iruaga in each post
+✅ Tag your Instructor in each post
+
+Use the following hashtags
+#30dayswebdevelopmentchallenge
+#Emboldlab
+#Followemboldlab
+#Registerforchort3
+#Clickthelinktoregister👇
+#www.embolddesign.com
+
+
+day 1 - Basic Html Page Structure
+Create a simple webpage structure using basic HTML elements: headings, paragraphs, links, images, and buttons.
+day 2 - Html Form & Input Element
+Design a basic form with various input types (text, email, password, etc.), labels, and a submit button.
+day 3 - Introduction to Css
+Style your HTML page from Day 1 with CSS, including text color, font styles, and basic layout styling.
+day 4 - Box Model Practice
+Use the CSS box model properties (margin, padding, border) to create a simple layout. Focus on spacing and alignment.
+day 5 - Flexbox Basics
+Use the CSS box model properties (margin, padding, border) to create a simple layout. Focus on spacing and alignment.
+day 6 - Css Grid Layout
+Design a basic page layout with CSS Grid, dividing the page into a header, main content area, and footer.
+day 7 - Weekly Reflection & Adjustments
+Review and refine your code from the week. Note any improvements and share insights with peers for feedback.
+day 8 - Html Sementic Elements
+Redesign a basic webpage with semantic HTML elements (header, footer, section, article, nav, div).
+day 9 - Css Transitions and Aimations
+Create simple CSS animations for button hover effects and page transitions.
