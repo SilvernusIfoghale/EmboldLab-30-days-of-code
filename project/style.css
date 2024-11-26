@@ -1,0 +1,41 @@
+header {
+  background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
+section {
+  overflow-x: hidden;
+}
+.navbar-brand,
+.text-primary {
+  color: #0a58ca;
+}
+
+.nav-link:hover {
+  color: #0a58ca;
+}
+p {
+  font-size: 1.1rem;
+}
+
+.btn-primary:hover {
+  background-color: #257dfd;
+  color: #fff;
+}
+
+.blue-bg {
+  background-color: #0a58ca;
+  color: #fff;
+}
+.img-width {
+  width: 55px;
+}
+
+.active {
+  color: #fff !important;
+}
+
+.img-socials {
+  width: 60px;
+}
+.img-socials:hover {
+  transform: scale(110%);
+}
